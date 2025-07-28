@@ -1,0 +1,1 @@
+This project contains my daily tasks and projects for the Collably Bootcamp
